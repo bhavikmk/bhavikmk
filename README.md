@@ -2,8 +2,8 @@
 
 I'm Bhavik kasundra
 
-- 🔭 I’m currently working on full stack Robotics projects
-- 🌱 I’m currently learning robots, development
-- 💬 Ask me about whatever you need
+- 🔭 I’m working on full stack Robotics projects. 
+- 🌱 I’m learning computer vision techniques & Robotics software development
+- 💬 Ask me about _______ :)
 - 📫 How to reach me: bhavikkasundra55@gmail.com
 
