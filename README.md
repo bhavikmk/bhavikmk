@@ -26,7 +26,7 @@
 
 I'm **Full stack Robotics engineer** from India.
 
-- :telescope: I’m working as a Robotics Software Engineer and developing autonomous systems. 
+- :telescope: I’m developing autonomous systems. 
 
 - :zap: Interested in vision, manipulation and navigation systems
 
