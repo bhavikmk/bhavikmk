@@ -57,6 +57,8 @@ I'm **Full stack Robotics engineer** from India.
 
 ### :fire: My Stats :
 
+![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavikmk&theme=vision-friendly-dark&show_icons=true)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhavikmk&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikmk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
