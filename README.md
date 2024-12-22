@@ -24,17 +24,18 @@
 
 ### :technologist: About Me
 
-I'm **Full stack Robotics engineer** from India.
+# About Me: An Engineer 🌟
 
-- :telescope: I’m developing autonomous systems. 
+Hi there! I’m an **hobbyist** from India who loves exploring technology and building projects.
 
-- :zap: Interested in vision, manipulation and navigation systems
+- 🔧 **What I Do**: I’m diving into the world of engineering (whatever finds interesting), and experimenting with it. 
+- 🌱 **Learning Journey**: I’m growing my skills as a **Full Stack Engineer** in both hardware and software—because why not do it all? 
+- 🎬 **Hobbies**: When I’m not working on projects, you’ll find me reading books, watching movies, or just geeking out on random stuff. 
+- 🎓 **Education**: 
+  - **B.Tech Mechanical Engineering** graduate from **NIT Surat** (2019–2023)
+  - Alumni of **JNV Gir Somnath** (2011–2018)
 
-- :seedling: Developing skills as Full stack engineer (Hardware + Software)
-
-- :zap: In my free time, I read books and watch movies. 
-
-- :telescope: Education : **B.Tech** from **NIT** Surat (2019 - 23), **JNV** (2011 - 18) at **Gir Somnath**
+- Feel free to connect if you share similar interests or just want to talk ! 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bhavik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhavik-kasundra-58017218a)
 
