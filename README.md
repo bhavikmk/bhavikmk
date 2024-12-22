@@ -22,9 +22,7 @@
 
 ---
 
-### :technologist: About Me
-
-# About Me: An Engineer 🌟
+### :technologist: About me 
 
 Hi there! I’m an **hobbyist** from India who loves exploring technology and building projects.
 
