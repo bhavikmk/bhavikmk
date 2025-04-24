@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  ### 👋 Hey visitor, I’m Bhavik Kasundra
+  ### 👋 Hey Homo Sapian, I’m Bhavik
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
@@ -24,18 +24,17 @@
 
 ### :technologist: About me 
 
-Hi there! I’m an **hobbyist** from India who loves exploring technology and building projects.
+Hi there! I’m an **hobbyist(not software engineer)** from India, I find interesting ideas and try to build a working model.
 
-- 🔧 **What I Do**: I’m diving into the world of engineering (whatever finds interesting), and experimenting with it. 
-- 🌱 **Learning Journey**: I’m growing my skills as a **Full Stack Engineer** in both hardware and software—because why not do it all? 
-- 🎬 **Hobbies**: When I’m not working on projects, you’ll find me reading books, watching movies, or just geeking out on random stuff. 
+- 🔧 **What I Do**: I'm fulltime Mechanical engineer at Reliance in core engineering sector, but sometime I do work on hobby projects and share over github. 
+- 🎬 **Hobbies**: Reading books (interdisciplinary) 
 - 🎓 **Education**: 
   - **B.Tech Mechanical Engineering** graduate from **NIT Surat** (2019–2023)
   - Alumni of **JNV Gir Somnath** (2011–2018)
 
 - Feel free to connect if you share similar interests or just want to talk ! 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bhavik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhavik-kasundra-58017218a)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bhavik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhavikkasundra)
 
 ### :hammer_and_wrench: Languages and Tools :
 
