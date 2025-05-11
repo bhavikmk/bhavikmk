@@ -24,10 +24,9 @@
 
 ### :technologist: About me 
 
-Hi there! I’m an **hobbyist(not software engineer)** from India, I find interesting ideas and try to build a working model.
 
-- 🔧 **What I Do**: I'm fulltime Mechanical engineer at Reliance in core engineering sector, but sometime I do work on hobby projects and share over github. 
-- 🎬 **Hobbies**: Reading books (interdisciplinary) 
+- 🔧 **What I Do**: I'm fulltime Mechanical engineer at Reliance, I do work on interesting projects and share over github. 
+- 🎬 **Hobbies**: Reading books (interdisciplinary, foundational texts) 
 - 🎓 **Education**: 
   - **B.Tech Mechanical Engineering** graduate from **NIT Surat** (2019–2023)
   - Alumni of **JNV Gir Somnath** (2011–2018)
@@ -45,14 +44,13 @@ Hi there! I’m an **hobbyist(not software engineer)** from India, I find intere
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" title="SolidWorks" alt="SolidWorks" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp; -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp; -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;-->
 </div>
-
 
 ### :fire: My Stats :
 
